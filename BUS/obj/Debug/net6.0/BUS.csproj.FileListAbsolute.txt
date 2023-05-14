@@ -1,0 +1,17 @@
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\bin\Debug\net6.0\BUS.deps.json
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\bin\Debug\net6.0\BUS.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\bin\Debug\net6.0\BUS.pdb
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\bin\Debug\net6.0\DAL.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\bin\Debug\net6.0\DTO.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\bin\Debug\net6.0\DAL.pdb
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\bin\Debug\net6.0\DTO.pdb
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\BUS.csproj.CopyComplete
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\BUS.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\refint\BUS.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\BUS.pdb
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\BUS\obj\Debug\net6.0\ref\BUS.dll

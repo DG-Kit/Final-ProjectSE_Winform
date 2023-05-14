@@ -1,0 +1,15 @@
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\bin\Debug\net6.0\DAL.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\bin\Debug\net6.0\DAL.pdb
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\bin\Debug\net6.0\DTO.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\bin\Debug\net6.0\DTO.pdb
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\DAL.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\DAL.pdb
+C:\TDTU\HK2_2022-2023\CNPM\Final_Winform\GUI\DAL\obj\Debug\net6.0\ref\DAL.dll
